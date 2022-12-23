@@ -18,5 +18,5 @@ Tiếp tục chạy lệnh sau trong terminal để tạo 1 tài khoản mới
 ```
 ![Screenshot](doc/make-admin-account.png)
 ### 6 - run : php artisan serve 
-### 7 - URL admin : http://127.0.0.1:8001/backend/admin-login
+### 7 - URL admin : http://127.0.0.1/backend/admin-login
 
